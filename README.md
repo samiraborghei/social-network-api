@@ -2,13 +2,13 @@
 
 This is an API for a social network where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
-## Technologies:
+## Technologies That I Used:
 
-- Javascript
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
+* Javascript
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
 
 ## Installation
 
@@ -26,7 +26,9 @@ npm start
 
 #### Walkthrough Video
 
-
+* [User Demo](https://drive.google.com/file/d/1bpWmXj5ZvIqfo9NwkFUSFB2GQZkStbZQ/view)
+* [Delete User and Friend Demo](https://drive.google.com/file/d/1TCK5e9p1DdvwfAwcEFVWfzpMycILFYFT/view)
+* [Thought Demo](https://drive.google.com/file/d/1yOPh9NQxTfUSJK914Hy6RT6DWflPoYng/view)
 ## Questions?
 
 Please feel free to contact me if you need any further information:
