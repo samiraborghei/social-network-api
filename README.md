@@ -2,13 +2,13 @@
 
 This is an API for a social network where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
-## Technologies:
+## Technologies That I Used:
 
-- Javascript
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
+* Javascript
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
 
 ## Installation
 
