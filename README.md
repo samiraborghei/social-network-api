@@ -26,9 +26,9 @@ npm start
 
 #### Walkthrough Video
 
-* [Demonsteration Video](https://drive.google.com/file/d/1bpWmXj5ZvIqfo9NwkFUSFB2GQZkStbZQ/view)
-* [Delete Demo](https://drive.google.com/file/d/1TCK5e9p1DdvwfAwcEFVWfzpMycILFYFT/view)
-
+* [User Demo](https://drive.google.com/file/d/1bpWmXj5ZvIqfo9NwkFUSFB2GQZkStbZQ/view)
+* [Delete User and Friend Demo](https://drive.google.com/file/d/1TCK5e9p1DdvwfAwcEFVWfzpMycILFYFT/view)
+* [Thought Demo](https://drive.google.com/file/d/1yOPh9NQxTfUSJK914Hy6RT6DWflPoYng/view)
 ## Questions?
 
 Please feel free to contact me if you need any further information:
